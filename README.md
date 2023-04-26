@@ -6,7 +6,7 @@ This is a React-based web application that allows users to play the popular game
 
 To use this app, you must have Node.js and npm installed on your computer.
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/wordle-react-app.git`
+1. Clone the repository to your local machine: `git clone https://github.com/EllieMP/wordle.git`
 2. Navigate to the project directory: `cd wordle-react-app`
 3. Install the dependencies: `npm install`
 
